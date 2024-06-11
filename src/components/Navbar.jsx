@@ -34,7 +34,7 @@ const Navbar = () => {
 
             <button className=" max-w-32 max-h-32 text-gray-500 hover:text-red-500 bg-transparent rounded-full text-sm font-medium cursor-pointer overflow-hidden">
               <img
-                src={firebase.pic ? firebase.pic : "src\\assets\\download.png"}
+                src={`${firebase.pic} ? ${firebase.pic} : "src\\assets\\download.png"`}
                 width={32}
                 className="rounded-full"
                 onClick={() => {
