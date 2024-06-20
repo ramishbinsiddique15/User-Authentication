@@ -9,6 +9,7 @@ This project demonstrates how to implement user authentication using Firebase Au
 - [Installation](#installation)
 - [Firebase Setup](#firebase-setup)
 - [Available Scripts](#available-scripts)
+- [Contact](#contact)
 
 ## Getting Started
 
@@ -75,4 +76,5 @@ In the project directory, you can run:
 - `npm run build`: Builds the app for production.
 - `npm test`: Launches the test runner.
 
-
+## Contact
+For any inquiries or feedback, you can reach out to me at [ramishbinsiddique24@gmail.com]
